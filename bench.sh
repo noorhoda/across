@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Description: A Bench Script by Teddysun
+# Description: A Bench Script by hamed
 #
 # Copyright (C) 2015 - 2022 Teddysun <i@teddysun.com>
 # Thanks: LookBack <admin@dwhd.org>
